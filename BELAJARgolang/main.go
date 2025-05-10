@@ -9,7 +9,7 @@ func main() {
 	app := fiber.New()
 
 	app.Get("/", func(c *fiber.Ctx) error {
-		return c.SendString("pop!")
+		return c.SendString("huhu!")
 	})
 
 	log.Fatal(app.Listen(":3000"))
