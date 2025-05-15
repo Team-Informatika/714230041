@@ -26,6 +26,7 @@ func main() {
 // Modifikasi 18: Komentar keelapanbelas untuk point commit
 // Modifikasi 19: Komentar kesembilanbelas untuk point commit
 // Modifikasi 20: Komentar keduapuluh untuk point commit
+// Modifikasi 21: Komentar keduapuluh satu untuk point commit
 	dummyVar := 0
 	app := fiber.New()
 
