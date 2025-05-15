@@ -9,6 +9,8 @@ import (
 )
 
 func main() {
+	// Modifikasi 4: Variabel dummy untuk point commit
+	dummyVar := 0
 	app := fiber.New()
 
 	app.Get("/", func(c *fiber.Ctx) error {
