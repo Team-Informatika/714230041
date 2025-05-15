@@ -1,4 +1,5 @@
 // Modifikasi 1: Menambahkan komentar untuk commit point
+// Modifikasi 2: Komentar kedua untuk point commit
 package main
 
 import (
